@@ -24,13 +24,3 @@
 </div>
 
   ##
- 
- 
-  
-<div>
-
-<img align="left" alt="Breno Colaço Github Stats" src="https://github-readme-stats-brenocolaco.vercel.app/api?username=brenocolaco&show_icons=true" />
-
-<img align="center-right" alt="Pricipais Linguagens" src="https://github-readme-stats-brenocolaco.vercel.app/api/top-langs/?username=brenocolaco&layout=compact" />
-
-<div/>
