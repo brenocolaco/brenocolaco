@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Breno Colaço estudante de Engenharia Elétrica e entusiasta de Análise de Dados e Programação 👋
+### Olá!! Eu sou o Breno Colaço formado em Engenharia Elétrica pela UNIFACS e entusiasta de Análise de Dados e Programação 👋
 
 
 - 🌱 Estudando Python e Estatística
